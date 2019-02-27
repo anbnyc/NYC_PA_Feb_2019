@@ -3,4 +3,6 @@ These are the unofficial election night results of the special election for New 
 
 The dataset is structured "long": one record is one candidate's vote count in one election district. Records contain identifying borough/county and assembly district for easy aggregation.
 
+For geographic analysis, this can be joined with the [election district map](https://data.cityofnewyork.us/City-Government/Election-Districts/h2n3-98hq) at NYC's Open Data Portal.
+
 I am open to pull requests to fix bugs in or improve the Python processing script.
